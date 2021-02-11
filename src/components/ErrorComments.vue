@@ -1,7 +1,7 @@
 /* eslint-disable quotes */
 <template>
   <div class="card">
-    <h4>Комментарии временно не достуны</h4>
+    <h4>Комментарии временно не доступны</h4>
     <p class="class-item">{{ textError1[0] }}</p>
     <div class="btn-close" @click="$emit('close-CommentsError')"></div>
   </div>
